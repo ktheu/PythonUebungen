@@ -1,5 +1,13 @@
 ### Python Übungen
 
+Verfahren für den Download und Aufruf:
+```
+1. Rechtsklick + Link speichern unter 
+2. Download 'In Ordner anzeigen'
+3. In dem angezeigten Ordner KEINE Datei selektieren, Umschalt + Linksclick
+4. PowerShell (oder CMD) Fenster hier öffnen 
+5. jupyter lab
+```
 
 [range](https://github.com/ktheu/PythonUebungen/blob/master/range.ipynb)
 
