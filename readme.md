@@ -19,6 +19,6 @@ Verfahren für den Download und Aufruf:
 
 ----
 
-[Komplexität einiger Python-Operationen](https://github.com/ktheu/PythonUebungen/blob/master/komplexitaet_pythonops.ipynb)
-
 [Zeitmessung für Sortieralgorithmen](https://github.com/ktheu/PythonUebungen/blob/master/sort_zeitmessung.ipynb)
+
+[Komplexität einiger Python-Operationen](https://github.com/ktheu/PythonUebungen/blob/master/komplexitaet_pythonops.ipynb)
