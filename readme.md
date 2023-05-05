@@ -4,12 +4,11 @@ Verfahren für den Download und Aufruf:
 ```
 1. Klick auf den Link
 2. In der Zeile, in der die lines stehen, auf Raw clicken
-3. Rechtsclick + Link speichern unter ....
+3. Rechtsclick + Link speichern unter .... , die Dateiendung auf .ipynb ändern.
 4. Download 'In Ordner anzeigen'
-5. Mit Rechtsklick rename: Dateityp (=Endung) muss .ipynb sein.
-6. In dem angezeigten Ordner KEINE Datei selektieren, Umschalt + Rechtsclick
-7. PowerShell (oder CMD) Fenster hier öffnen 
-5. jupyter lab
+5. In dem angezeigten Ordner KEINE Datei selektieren, Umschalt + Rechtsclick
+6. PowerShell (oder CMD) Fenster hier öffnen 
+7. jupyter lab
 ```
 
 [range](https://github.com/ktheu/PythonUebungen/blob/master/range.ipynb)
