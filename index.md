@@ -21,3 +21,11 @@ Verfahren für den Download und Aufruf:
 [Zeitmessung für Sortieralgorithmen](https://github.com/ktheu/PythonUebungen/blob/master/sort_zeitmessung.ipynb)
 
 [Komplexität einiger Python-Operationen](https://github.com/ktheu/PythonUebungen/blob/master/komplexitaet_pythonops.ipynb)
+
+--- 
+
+### Aufgaben in Replit
+
+**[Problems01](https://replit.com/teams/join/rwakwbrblvkwmttibbgkyxvqxbxtxtga-Problems01)** 
+
+**[Problems02](https://replit.com/teams/join/gyahpukiufxyrnfbmhswmzmvlniyfmwu-Problems02)**
